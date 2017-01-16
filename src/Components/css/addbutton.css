@@ -1,0 +1,16 @@
+.add-bt {
+  background-color: rgb(70, 82, 133);
+  border: none;
+  font-weight: bold;
+  height: 30px;
+  color: #FFF;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 0 15px 0 15px;
+  outline: none;
+}
+
+.add-bt:hover {
+  background-color: rgb(49, 0, 98);
+  cursor: pointer;
+}
